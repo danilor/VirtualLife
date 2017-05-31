@@ -4,6 +4,10 @@ This is an experimental project. It is being built using Unity Technology and C#
 
 If you are going to use anything of this code (clases, sprites or examples) you agree that they may not work as intented and may cause troubles.
 
+## Code
+
+Right now I have two Visual Studio projects working with this. One is the main, with the "Life" itself, and the other one is only a basic Form to make use of those clases. So if you are willing to try this code take into count that it won't work "out of the box". You will have to write a little program to make use of those clases and objects.
+
 ## TODO List
 
 - [X] Basic structure
